@@ -1,4 +1,3 @@
-import React from 'react';
 import LedSignBoard from './LedSignBoard';
 import './App.css';
 
